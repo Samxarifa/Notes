@@ -23,12 +23,8 @@
             "id": "abb8c323404186f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Syntax/PHP.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Syntax/PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Syntax/PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Code Syntax/PHP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,9 +153,9 @@
   },
   "active": "abb8c323404186f3",
   "lastOpenFiles": [
-    "MDFiles",
-    "Code Syntax/SQL.md",
     "Code Syntax/PHP.md",
+    "Code Syntax/SQL.md",
+    "MDFiles",
     "Markdown Cheat Sheet.md",
     "~$rkdown Cheat Sheet.md",
     "Code Syntax",

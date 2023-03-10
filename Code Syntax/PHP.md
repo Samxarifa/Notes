@@ -1,6 +1,17 @@
+## Check for Errors
+
+Use ini_set to show errors and warnings for php code
+
+```php
+ini_set("display_errors",1);
+ini_set("display_warnings",1);
+```
+
 ## Connect to SQL
 
 ### Using PDO (PHP Database Object) With MySQL
+
+This would usually be put in a separete php file called connect.php
 
 ```php
 function connectToDB() {
@@ -10,7 +21,7 @@ function connectToDB() {
 	
 	$db = new PDO($server,$username,$password);
 	return $db;
-    }
+}
 ```
 
 ### Connect and Run Command
